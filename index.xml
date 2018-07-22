@@ -1,15 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Hello Cursor</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-</head>
-<body>
-    <center>
-        <img src="gorod_zakat_niujork_121480_1920x1080.jpg" alt="CursorEdu">
-    </center>
-</body>
-</html>
+<h1 style="text-align: center;"><span style="font-family:tahoma,geneva,sans-serif"><var><span style="color:#FF0000"><strong>Hello Cursor</strong></span></var></span>&nbsp;</h1>
